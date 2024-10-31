@@ -3,3 +3,6 @@
 @tailwind utilities;
 
 
+.dots {
+    background-image: url("../assets/Dots.svg");
+}
